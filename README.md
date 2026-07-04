@@ -6,7 +6,7 @@ operator papers structurally cannot look. Third leg of the populace
 publication portfolio, after the operator dossiers
 ([imputation-paper](https://github.com/PolicyEngine/imputation-paper),
 [calibration-paper](https://github.com/PolicyEngine/calibration-paper),
-[l0-paper](https://github.com/PolicyEngine/l0-paper)) and on the
+[sparsity-paper](https://github.com/PolicyEngine/sparsity-paper)) and on the
 [popdgp](https://github.com/PolicyEngine/popdgp) referee.
 
 ## The four questions (each unanswerable by a single-operator eval)
