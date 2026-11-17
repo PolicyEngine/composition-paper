@@ -2,7 +2,7 @@
 
 Paper and experiment workspace for the composition study: what happens when
 survey imputation and weight calibration are *combined*, measured where the
-operator papers structurally cannot look. Third leg of the populace
+operator papers structurally cannot look. Third leg of the Microcosm
 publication portfolio, after the operator dossiers
 ([imputation-paper](https://github.com/PolicyEngine/imputation-paper),
 [calibration-paper](https://github.com/PolicyEngine/calibration-paper),
@@ -32,12 +32,12 @@ publication portfolio, after the operator dossiers
 ## Design
 
 Factorial: frontier imputation methods (from imputation-paper) × calibrators
-(from calibration-paper) on holdout-masked builds (populace#302), scored on
+(from calibration-paper) on holdout-masked builds (microcosm#302), scored on
 held-out target families AND survey holdouts via popdgp, floors everywhere.
 Bounded grid — the operator papers exist so this one never re-litigates
 baselines.
 
-Blocked on: populace#302 (holdout-masked builds), calibration-paper's method
+Blocked on: microcosm#302 (holdout-masked builds), calibration-paper's method
 adapters. Venue: Journal of Official Statistics or IJM (diamond OA).
 
 ## License
